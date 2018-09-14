@@ -19,7 +19,7 @@ app.get('/', function(req, res) {
 
 
     res.render('home', {
-        name: 'Saikiza'
+        name: 'Pronto más info...'
     });
 })
 app.get('/about', function(req, res) {

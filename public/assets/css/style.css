@@ -13,3 +13,26 @@ img.imag {
     width: 100%;
     margin: 0px;
 }
+
+.dropdown-menu {
+    width: 220px;
+    background-image: url(/assets/img/artistasgif.gif);
+    background-color: rgba(255, 251, 4, 0.806);
+    background-size: cover;
+    color: aliceblue;
+    font-weight: 800
+}
+
+.dropdown-menu .dropdown-item {
+    color: rgb(253, 253, 253);
+    font-weight: 800;
+    font-family: 'Courier New';
+}
+
+.dropdown-menu a:hover {
+    background-color: rgba(75, 74, 59, 0.719);
+    color: rgb(255, 251, 8);
+    font-size: 20px;
+    font-weight: 1900;
+    font-family: 'Courier New', Courier, monospace;
+}
