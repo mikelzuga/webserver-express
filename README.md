@@ -1,4 +1,4 @@
-## Codigo fuente del proyecto - Curso Node
+## Codigo fuente del proyecto heroku - Curso Node
 
 ```
 npm install
