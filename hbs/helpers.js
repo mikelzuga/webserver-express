@@ -6,7 +6,7 @@ const hbs = require('hbs');
 
 hbs.registerHelper('getYear', () => {
     return new Date().getFullYear()
-})
+});
 hbs.registerHelper('capitalize', (text) => {
     let palabras = text.split(' ');
 
